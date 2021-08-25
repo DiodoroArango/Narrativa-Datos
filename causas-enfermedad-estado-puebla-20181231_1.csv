@@ -1,0 +1,118 @@
+Padecimiento, Enero, Febrero, Marzo, Abril,Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre, Diciembre
+Absceso hepático amebiano(A06.4),0,2,0,2,0,0,0,0,0,0,0,3
+Accidentes de transporte en vehículos con motor(V20-V29 V40-V79),585,597,555,530,577,478,424,618,637,1043,757,615
+Amebiasis intestinal(A06.0-A06.3 A06.9),1135,979,1004,1308,1669,1367,1278,1442,1148,1210,869,602
+Anencefalia(Q00),1,0,1,2,2,0,1,2,1,1,1,1
+Anorexia bulimia y otros trastornos alimentarios(F50),5,8,8,3,3,7,9,5,12,4,12,7
+Ascariasis(B77),172,235,178,210,245,179,254,218,170,235,146,104
+Asma(J45 J46),376,272,218,237,282,192,212,266,262,324,283,197
+Bocio endémico(E01),1,2,1,2,4,3,8,6,0,1,0,0
+Brucelosis(A23),12,12,21,8,19,10,16,11,13,18,4,7
+Candidiasis urogenital(B37.3-B37.4),832,904,855,1003,1216,928,941,1208,951,1048,761,571
+Chancro blando(A57),0,1,0,2,4,4,2,4,3,0,0,2
+Cirrosis hepática alcohólica(K70.3),56,40,37,32,54,29,46,42,33,43,27,24
+Cisticercosis(B69),0,0,0,0,0,0,0,2,2,0,2,0
+Cólera(A00),0,0,1,0,0,0,0,0,0,0,0,0
+Conjuntivitis epidémica aguda hemorrágica(B30.3),0,0,1,1,0,0,0,0,0,1,0,1
+Conjuntivitis(H10),4121,4263,3831,4114,4625,3557,3365,3908,3236,3938,2890,2548
+Contacto traumatico con avispas avispones y abejas(X23),14,28,30,17,27,33,43,27,34,38,16,16
+Dengue no grave(A90),2,0,1,0,3,7,9,28,26,40,20,2
+Depresión(F32),183,182,141,201,168,164,180,307,217,276,169,335
+Desnutrición leve(E44.1),395,375,343,378,547,366,384,461,387,404,273,246
+Desnutrición moderada(E44.0),44,67,72,50,111,41,72,95,59,37,26,40
+Desnutrición severa(E40-E43),21,21,14,11,12,19,18,15,24,22,21,34
+Diabetes mellitus en el embarazo(O24.4),20,22,14,20,23,19,21,28,14,21,22,23
+Diabetes mellitus insulinodepediente (Tipo I)(E10),4,1,2,4,2,4,3,7,6,6,3,4
+Diabetes mellitus no insulinodepediente (Tipo II)(E11-E14),1183,992,981,1057,1281,1104,950,1196,932,1256,993,748
+Displasia cervical leve y moderada(N87.0-N87.1),69,82,101,151,161,100,126,120,129,116,83,49
+Displasia cervical severa y CaCu In Situ(N87.2 D06),5,5,6,10,11,10,10,11,14,5,7,0
+Edema proteinuria y transtornos hipertensivos en el embarazo parto y puerperio(O10-O16),312,172,171,131,168,158,176,228,218,246,183,175
+Efectos del calor y de la luz(T67 X30),27,7,7,11,6,4,8,25,4,6,4,1
+Encefalocele(Q01),0,1,1,1,0,2,0,0,0,0,0,0
+Enfermedad alcohólica del hígado(K70 EXCEPTO K70.3),42,37,29,36,57,66,30,66,35,34,93,39
+Enfermedad cerebrovascular(I60-I67 I69),184,131,120,109,144,118,108,179,116,146,102,141
+Enfermedad de Alzheimer(G30),10,3,4,1,1,3,4,4,7,7,3,2
+Enfermedad de Parkinson(G20),21,31,20,11,19,10,19,18,27,14,16,9
+Enfermedad febril exantemática(U97),5,3,10,6,9,10,4,7,3,6,10,4
+Enfermedad isquémica del corazón(I20-I25),167,125,116,130,117,109,118,195,140,146,148,129
+Enfermedad por virus Chikungunya(A92.0),0,0,0,0,1,0,0,0,0,0,0,0
+Enteritis debida a rotavirus(A08.0),3,4,4,5,3,2,0,0,2,2,4,1
+Enterobiasis(B80),33,28,7,33,33,25,32,126,38,30,16,6
+Erisipela(A46),32,35,45,36,42,41,38,48,51,54,39,20
+Escabiosis(B86),234,201,184,200,204,161,166,238,202,224,218,122
+Escarlatina(A38),5,9,8,8,11,7,6,3,10,13,9,2
+Espina bífida(Q05),5,1,3,2,0,0,2,1,0,0,0,0
+Eventos supuestamente asociados a la vacunación (ESAVI)(Y58 Y59),2,7,1,1,4,6,7,0,3,7,4,1
+Faringitis y amigdalitis estreptocócicas(J02.0 J03.0),323,412,252,277,311,227,290,240,295,256,166,191
+Fiebre manchada(A77.0),0,0,0,0,0,0,0,1,0,1,0,0
+Fiebre paratifoidea(A01.1-A01.4),5,22,10,26,11,4,6,14,13,9,4,6
+Fiebre reumática aguda(I00-I02),0,1,0,0,1,0,0,1,1,1,0,2
+Fiebre tifoidea(A01.0),5,4,17,10,9,15,13,28,12,3,5,5
+Giardiasis(A07.1),27,19,15,31,26,30,30,14,32,16,53,10
+Gingivitis y enfermedad periodontal(K05),6504,6038,5779,6848,8078,6674,6874,8209,7252,8518,6345,4766
+Hepatitis vírica A(B15),13,7,5,5,9,7,9,10,14,15,11,14
+Hepatitis vírica B(B16),0,0,0,2,1,2,2,0,2,2,1,3
+Hepatitis vírica C(B17.1 B18.2),1,0,2,3,3,3,2,4,2,4,1,3
+Herida por arma de fuego y punzocortantes(W32-W34),205,184,211,210,265,185,266,299,268,249,181,128
+Herpes genital(A60.0),17,12,16,14,25,17,16,14,16,16,16,14
+Hiperplasia de la próstata(N40),292,272,214,242,287,260,304,367,282,368,274,243
+Hipertensión arterial(I10-I15),1233,1073,968,964,1164,841,851,1146,944,1160,933,751
+Hipotermia(T68),1,0,0,1,4,0,2,0,4,0,3,0
+Infección asintomática por VIH(Z21),42,31,34,25,52,39,42,46,41,52,52,34
+Infección asociada a la atención de la salud(S/C),75,50,73,64,86,49,73,96,63,85,69,68
+Infección de vías urinarias(N30 N34 N39.0),15449,13820,13409,15450,18904,15455,14701,18217,15567,18500,13783,10851
+Infección gonocócica del tracto genitourinario(A54.0-A54.2),15,12,12,14,26,24,10,20,16,11,5,8
+Infección por virus del papiloma humano(B97.7),44,31,14,29,38,28,18,20,31,25,13,45
+Infección por virus Zika(U06.9),0,0,0,0,0,1,0,0,0,0,0,0
+Infecciones intestinales por otros organismos y las mal definidas(A04 A08-A09 EXCEPTO A08.0),17549,14899,15723,20753,33002,27056,21334,23962,20458,22761,14962,11534
+Infecciones respiratorias agudas(J00-J06 J20, J21 EXCEPTO J02.0 Y J03.0),172933,120336,97080,85508,102260,75101,69643,69980,89799,112497,104553,105798
+Influenza(J09-J11),181,114,46,38,25,6,8,7,8,46,91,149
+Insuficiencia venosa periférica(I87.2),649,701,714,767,903,692,745,965,823,916,595,459
+Intoxicación aguda por alcohol(F10.0),98,119,102,91,116,115,94,145,114,112,83,100
+Intoxicación alimentaria bacteriana(A05),26,18,20,34,34,26,36,36,45,30,22,18
+Intoxicación por monoxido de carbono(T58),28,2,0,0,0,4,0,0,8,2,22,5
+Intoxicación por picadura de alacrán(T63.2 X22),941,755,1004,1211,1476,1051,975,1151,873,1165,879,705
+Intoxicación por plaguicidas(T60),3,6,3,4,14,2,10,3,4,12,9,9
+Intoxicación por ponzoña de animales(T63 X21 X27 EXCEPTO T63.2),66,70,80,91,106,134,102,133,102,129,69,61
+Labio y paladar hendido(Q35-Q37),0,2,0,3,4,2,4,5,4,2,1,0
+Lepra(A30),0,0,1,2,1,0,0,0,0,1,0,0
+Linfogranuloma venéreo por clamidias(A55),1,0,4,0,0,0,0,0,0,0,0,0
+Mal del pinto(A67),0,2,3,2,2,3,2,2,1,1,2,0
+Meningitis tuberculosa(A17.0),1,1,0,0,1,1,1,1,0,2,0,1
+Microcefalia(Q02),1,0,0,0,2,2,1,0,1,1,0,0
+Mordedura por serpiente(X20),14,13,14,19,37,39,36,66,46,59,21,11
+Mordeduras por otros mamíferos(W55),41,22,34,22,37,24,34,53,40,40,22,29
+Mordeduras por perro(W54),493,461,487,501,669,506,494,630,533,601,492,410
+Neumonías y bronconeumonías(J12-J18 EXCEPTO J18.2 J13 y J14),516,339,335,287,274,208,208,230,216,273,357,400
+Obesidad(E66),1806,1747,1572,1783,1858,1517,1518,2027,1526,1838,1450,1233
+Otitis media aguda(H65.0-H65.1),2667,2258,1824,2200,2398,1857,1786,2001,1937,2242,1764,1669
+Otras helmintiasis(B65-B67 B70-B76 B78 B79 B81-B83 excepto B73 y B75),428,398,380,459,565,463,400,539,403,428,255,210
+Otras hepatitis víricas(B17-B19 excepto B17.1 B18.2),0,1,1,1,7,2,0,5,6,2,1,2
+Otras infecciones intestinales debidas a protozoarios(A07.0 A07.2 A07.9),289,234,236,304,435,407,386,474,322,258,174,130
+Otras rickettsiosis(A79),0,0,0,0,1,1,0,0,2,0,0,0
+Otras salmonelosis(A02),367,392,340,494,661,446,462,499,409,497,309,194
+Paludismo por plasmodium vivax(B51),0,0,0,0,0,0,0,0,0,0,0,0
+Parálisis flácida aguda(U98),0,4,1,4,1,0,0,1,0,10,3,3
+Parotiditis infecciosa(B26),11,14,6,13,16,8,6,13,13,11,8,7
+Peatón lesionado en accidente de transporte(V01-V09),484,389,391,491,580,474,455,470,277,164,53,81
+Quemaduras(T20-T32),305,275,274,283,347,275,325,323,320,386,279,238
+Shigelosis(A03),2,1,2,7,7,8,13,3,3,12,0,1
+Sífilis adquirida(A51-A53),6,5,14,13,17,17,14,22,13,13,13,5
+Sífilis congénita(A50),1,0,0,0,0,0,1,0,0,0,1,0
+Síndrome coqueluchoide(U99),0,1,0,4,3,1,0,1,0,1,3,2
+Síndrome de inmunodeficiencia adquirida(B20-B24),13,17,25,27,28,19,25,22,28,36,23,16
+Síndrome meníngeo(G00-G03 excepto G00.0 G00.1),1,0,0,0,1,0,0,0,0,4,0,1
+Teniasis(B68),0,0,0,0,0,0,0,0,0,1,1,0
+Tifo murino(A75.2),0,0,0,0,2,1,0,0,1,0,0,0
+Toxoplasmosis(B58),0,0,0,1,1,,1,0,0,1,0,0
+Tricomoniasis urogenital(A59.0),372,374,384,440,469,427,423,608,503,473,382,242
+Tripanosomiasis americana (enfermedad de Chagas) aguda (para 2017)(B57.0-B57.1),2,1,8,1,0,2,4,0,0,2,7,0
+Tripanosomiasis americana (enfermedad de Chagas) crónica (para 2017)(B57.2-B57.5),,1,0,0,0,0,0,1,0,0,0,3
+Tuberculosis otras formas(A17.1 A17.8 A17.9 A18-A19),10,10,9,18,14,12,13,21,8,18,9,9
+Tuberculosis respiratoria(A15-A16),36,24,34,32,39,41,25,40,28,36,29,33
+Tumor maligno de la mama(C50),14,4,25,33,34,18,13,31,50,57,65,40
+Tumor maligno del cuello del útero(C53),2,4,2,0,3,2,4,8,0,8,2,2
+Úlceras gastritis y duodenitis(K25-K29),5003,4315,4115,4498,5603,4543,4072,5632,4647,5147,3838,3135
+Varicela(B01),321,330,343,308,328,270,189,216,175,220,254,170
+Violencia intrafamiliar(Y07.0-Y07.2),119,146,145,203,241,159,153,245,151,195,133,102
+Vulvovaginitis(N76),3747,3059,3096,3623,4543,3966,3832,4937,4158,6637,3720,2683
